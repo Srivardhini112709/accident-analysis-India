@@ -1,22 +1,33 @@
+# 🚧 Accident Analysis in Indian Cities
 
-# 🚧 Accident Analysis in India
+This project analyzes transportation-related accidents in India using real-world government data.  
+It uncovers key insights and patterns in **road, rail, and crossing accidents** across different states.
 
-This project performs data analysis on transportation accidents across Indian states using real-world datasets.  
-We explore the distribution of accidents by type (road, rail, crossing), identify high-risk areas, and visualize key trends using Python.
+## 📊 Objectives
+- Understand the distribution of accident types (road, rail, crossing)
+- Identify states with the highest fatality rates
+- Visualize accident data to support decision-making
+- Provide insights to aid traffic safety campaigns and policy planning
 
-## 📌 Features
-- Accident distribution by type and state
-- Visual insights using matplotlib & pandas
-- Data-driven recommendations for traffic safety
+## 🔧 Tools Used
+- **Python** (Pandas, Matplotlib)
+- **Google Colab**
+- **Dataset:** Ministry of Road Transport & Highways, India
 
-## 🛠 Tools Used
-- Python, Pandas, Matplotlib
-- Jupyter Notebook / Google Colab
+## 📈 Visualizations
+- ✅ Pie chart: Death distribution by accident type  
+- ✅ Bar chart: Top 10 states with highest total deaths  
+- ✅ Summary insights from data
 
-## 📁 Output
-- Graphs of total deaths by state
-- Pie charts showing accident type proportions
-- Final PDF report for presentation
+## 🧠 Key Insights
+- Road accidents account for the majority of fatalities  
+- Certain states consistently report higher death counts  
+- This analysis supports targeted safety and awareness efforts
+
+## 📁 Project Files
+- `Accident_analysis_india.ipynb` – Jupyter Notebook with complete analysis  
+- `Accident_analysis_india_sri.pdf` – Final project report with visualizations  
+- `README.md` – Project overview and documentation
 
 ## 🙋‍♀️ Author
 **Sri Vardhini**  
